@@ -1,5 +1,6 @@
 # Blender MTL File: 'woodfloor4.blend'
-# Material Count: 1newmtl Material.002
+# Material Count: 1
+newmtl Material.002
 Ns 96.078431
 Ka 1.000000 1.000000 1.000000
 Kd 0.800000 0.800000 0.800000
