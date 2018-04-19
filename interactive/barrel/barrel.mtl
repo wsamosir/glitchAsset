@@ -1,0 +1,16 @@
+# Blender MTL File: 'None'
+# Material Count: 1
+
+newmtl barrel
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.800000 0.800000 0.800000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump -bm 0.150000 barrel_barrel_Height.png
+map_Kd barrel_barrel_BaseColor.png
+map_Ks barrel_barrel_Metallic.png
+map_Ns barrel_barrel_Roughness.png
