@@ -10,7 +10,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Bump -bm 0.250000 pedestal_pedestal_Height.png
+map_Bump -bm 0.1 pedestal_pedestal_Height.png
 map_Kd pedestal_pedestal_BaseColor.png
 map_Ks pedestal_pedestal_Metallic.png
 map_Ns pedestal_pedestal_Roughness.png
