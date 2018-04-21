@@ -10,7 +10,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Bump -bm 0.250000 fragment_None_Height.png
+map_Bump -bm 0.05 fragment_None_Height.png
 map_Kd fragment_None_BaseColor.png
 map_Ks fragment_None_Metallic.png
 map_Ns fragment_None_Roughness.png
